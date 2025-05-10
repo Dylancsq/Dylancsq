@@ -2,9 +2,7 @@ Dylan, GOAT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylancsq&show_icons=true&theme=dark)
 
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylancsq&layout=compact&theme=dark)
 
 
 <div> 
